@@ -1,0 +1,37 @@
+01-27 17:06:50.849      544-544/jgs3733.washington.edu.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onNestedScrollAccepted, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onNestedScrollAccepted
+01-27 17:06:50.849      544-544/jgs3733.washington.edu.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11349: Landroid/view/ViewGroup;.onNestedScrollAccepted (Landroid/view/View;Landroid/view/View;I)V
+01-27 17:06:50.859      544-544/jgs3733.washington.edu.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onStopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onStopNestedScroll
+01-27 17:06:50.859      544-544/jgs3733.washington.edu.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11355: Landroid/view/ViewGroup;.onStopNestedScroll (Landroid/view/View;)V
+01-27 17:06:50.859      544-544/jgs3733.washington.edu.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onWindowSystemUiVisibilityChanged, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.onWindowSystemUiVisibilityChanged
+01-27 17:06:50.859      544-544/jgs3733.washington.edu.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11357: Landroid/view/ViewGroup;.onWindowSystemUiVisibilityChanged (I)V
+01-27 17:06:50.869      544-544/jgs3733.washington.edu.activityspy I/dalvikvm? Could not find method android.support.v7.internal.widget.ActionBarOverlayLayout.stopNestedScroll, referenced from method android.support.v7.internal.widget.ActionBarOverlayLayout.setHideOnContentScrollEnabled
+01-27 17:06:50.869      544-544/jgs3733.washington.edu.activityspy W/dalvikvm? VFY: unable to resolve virtual method 9043: Landroid/support/v7/internal/widget/ActionBarOverlayLayout;.stopNestedScroll ()V
+01-27 17:06:50.949      544-544/jgs3733.washington.edu.activityspy I/dalvikvm? Could not find method android.view.ViewGroup.onRtlPropertiesChanged, referenced from method android.support.v7.widget.Toolbar.onRtlPropertiesChanged
+01-27 17:06:50.949      544-544/jgs3733.washington.edu.activityspy W/dalvikvm? VFY: unable to resolve virtual method 11352: Landroid/view/ViewGroup;.onRtlPropertiesChanged (I)V
+01-27 17:06:50.969      544-544/jgs3733.washington.edu.activityspy I/dalvikvm? Could not find method android.content.res.TypedArray.getChangingConfigurations, referenced from method android.support.v7.internal.widget.TintTypedArray.getChangingConfigurations
+01-27 17:06:50.979      544-544/jgs3733.washington.edu.activityspy W/dalvikvm? VFY: unable to resolve virtual method 364: Landroid/content/res/TypedArray;.getChangingConfigurations ()I
+01-27 17:06:50.979      544-544/jgs3733.washington.edu.activityspy I/dalvikvm? Could not find method android.content.res.TypedArray.getType, referenced from method android.support.v7.internal.widget.TintTypedArray.getType
+01-27 17:06:50.979      544-544/jgs3733.washington.edu.activityspy W/dalvikvm? VFY: unable to resolve virtual method 386: Landroid/content/res/TypedArray;.getType (I)I
+01-27 17:06:51.059      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onCreate event fired
+01-27 17:06:51.059      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onStart event fired
+01-27 17:06:51.069      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onResume event fired
+01-27 17:06:51.129      544-550/jgs3733.washington.edu.activityspy I/dalvikvm? threadid=3: reacting to signal 3
+01-27 17:06:51.169      544-550/jgs3733.washington.edu.activityspy I/dalvikvm? Wrote stack traces to '/data/anr/traces.txt'
+01-27 17:07:08.258      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onPause event fired
+01-27 17:07:08.258      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onStop event fired
+01-27 17:07:08.258      544-544/jgs3733.washington.edu.activityspy E/ActivityManager? We’re going down, Captain!
+01-27 17:07:08.588      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onCreate event fired
+01-27 17:07:08.588      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onStart event fired
+01-27 17:07:08.650      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onResume event fired
+01-27 17:10:02.050      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onPause event fired
+01-27 17:10:02.050      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onStop event fired
+01-27 17:10:02.059      544-544/jgs3733.washington.edu.activityspy E/ActivityManager? We’re going down, Captain!
+01-27 17:10:02.249      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onCreate event fired
+01-27 17:10:02.249      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onStart event fired
+01-27 17:10:02.259      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onResume event fired
+01-27 17:10:07.859      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onPause event fired
+01-27 17:10:07.859      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onStop event fired
+01-27 17:10:07.859      544-544/jgs3733.washington.edu.activityspy E/ActivityManager? We’re going down, Captain!
+01-27 17:10:08.159      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onCreate event fired
+01-27 17:10:08.200      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onStart event fired
+01-27 17:10:08.239      544-544/jgs3733.washington.edu.activityspy I/ActivityManager? onResume event fired
